@@ -1,0 +1,8 @@
+
+.hand:hover {
+  cursor: pointer;
+}
+
+.nohand:hover {
+  cursor: default;
+}

@@ -1,0 +1,93 @@
+
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<title>The Fish Zone </title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"/>
+		<link rel='stylesheet' type='text/css' href='./css.css' media="all">
+		<link rel="stylesheet" type="text/css" href="./main.css" media="all">
+
+<style type="text/css">
+
+.full-width{
+	width: 100%;
+	float: left;
+	background: white !important;
+}
+
+.full-width-above-canvas{
+	width: 100%;
+	float: left;
+	position: absolute;
+	top: 0;
+	z-index: 999999999;
+}
+
+.full-width-top{
+	width: 100%;
+	background: white !important;
+	position: absolute;
+	z-index: 9999999999;
+}
+
+.full-canvas{
+	width: 100%;
+	float: left;	
+}
+
+.full-canvas h1, .full-canvas h2{
+	padding-top: 70px;
+}
+
+.container{
+	margin: 0 auto;
+	width: 1000px;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	position: relative;
+}
+
+.leaderboard{
+	height: 90px;
+}
+
+.container-half{
+	float: left;
+	width: 500px;
+	text-align: center;	
+}
+
+</style>
+
+</head>
+    
+ <body>
+
+<div class="full-canvas">
+
+		<img id="face-source-0" src="./temp.png" width="477" height="196" alt=" " class="face-source">
+		<img id="face-source-1" src="./salmon.png" width="477" height="196" alt=" " class="face-source">
+		<img id="face-source-2" src="./salmon.png" width="477" height="196" alt=" " class="face-source">
+		<img id="face-source-3" src="./salmon.png" width="477" height="196" alt=" " class="face-source">
+		<img id="face-source-4" src="./salmon.png" width="477" height="196" alt=" " class="face-source">
+
+		<h1>Welcome to the Fish Zone</h1>
+		<h2>There shall be fish</h2>
+
+		<div id="faces-container"></div>
+
+		<script type="text/javascript" src="./music.js"></script>
+		
+		<script type="text/javascript" src="./three.js"></script>
+		<script type="text/javascript" src="./faces.js"></script>
+		<script type="text/javascript">
+			window.onload = Faces.windowInit;
+		</script>		
+        <!-- <center> <h3>Thanks for visiting! serious inquiries may be directed to likethe@salmonofcapistrano.com </h3></center> -->
+
+</div> <!-- "full-canvas" -->
+
+	</body>	
+</html>

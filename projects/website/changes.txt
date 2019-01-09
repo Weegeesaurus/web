@@ -1,0 +1,65 @@
+changelog.html
+
+aboutnothing.html
+
+contacto.html
+
+
+todo:
+chicken game
+
+more games(emulator,flash,html sources)
+have 3 pages dedicated to games
+5 page is accessable by html location
+page 3 can unlock page 4
+
+village
+
+
+random bits:
+make the snake 10%
+7%
+side thing (left)
+7% sidetab (right)
+5% new menu (replaces ??? menu)
+8%
+replace childhood icon
+
+bottom mail tab
+
+
+
+Lore:
+
+Key game > chest
+
+chest has a cookie
+
+
+oldman cookie interaction: player gains oldmans's key
+
+fish is in the ??? area 
+15% to spawn
+
+abandoned forum
+
+
+
+the eye > oracle
+
+
+oracle:
+says old man likes cookies
+
+can unlock forum!!!!
+
+snake refrence
+
+fish refrence
+
+ARCHIVE TODO
+contact aliens
+chicken game on page 5(only game on page)(url access)
+fish water page 2
+illuminati page connected to eye
+forum
